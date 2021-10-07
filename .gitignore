@@ -1,0 +1,7 @@
+./.vscode
+./debug.log
+./vscode*
+./build
+./dist
+./img
+./plugins
